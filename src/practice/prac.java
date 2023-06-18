@@ -10,5 +10,5 @@ package practice;
  */
 public class prac {
     
-}
+}//tu hai
 //hii
